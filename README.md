@@ -13,5 +13,3 @@ And even more description
 Yet more description that justified a new subheader
 
 And even more, just goes on and on
-
-and on...
